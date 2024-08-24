@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "./node_modules/nodemon/bin/nodemon.js app.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "hyper-express": "^6.16.4",
+    "live-directory": "^3.0.3",
+    "nodemon": "^3.1.4"
+  }
+}
