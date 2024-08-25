@@ -1,1 +1,4 @@
-<%= people.join(", "); %>
+<h1>Greeting everyone in the people array</h1>
+<% people.forEach(person => { %>
+<p>Hello, <%= person[0].toUpperCase() + person.slice(1) %>!</p>
+<% }); %>
