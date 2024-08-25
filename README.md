@@ -28,7 +28,7 @@ The only thing that is not self-explanatory is the AJAX request. To make an AJAX
 
 ## Bonus
 
-As I am using Hyper-Express, which is built on top of uWebSockets.js, this server should totally murder any php servers in existence... ;-)
+As I am using Hyper-Express, which is built on top of uWebSockets.js, the server should totally murder any php servers in existence... ;-)
 
 Happy hacking!
 
